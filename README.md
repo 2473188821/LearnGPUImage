@@ -1,2 +1,4 @@
-# learnGPUImage
-learn about GPUImage source code.
+# LearnGPUImage
+Learn about GPUImage source code.
+
+
